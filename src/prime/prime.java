@@ -9,6 +9,7 @@ public class prime {
 		if(n%i==0) return false;
 		}		
 		return true;
+		//456
 	}
 
 }
